@@ -90,3 +90,5 @@ library(vip)
 # Create a variable importance plot
 var_importance <- vip::vip(tree_fit, num_features = 10)
 print(var_importance)
+#thanks
+print(".")
